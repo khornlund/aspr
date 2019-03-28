@@ -1,6 +1,8 @@
 import pytest
 from click.testing import CliRunner
+
 from aspr.sim import experiment, spawntimes
+
 
 def test_command_line_interface():
     """Test the CLI."""
