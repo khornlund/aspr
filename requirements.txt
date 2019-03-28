@@ -1,0 +1,7 @@
+click
+numpy
+pandas
+joblib
+sklearn
+pytest
+pytest-runner
